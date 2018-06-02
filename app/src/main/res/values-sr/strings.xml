@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Budi Čovek</string>
+    <string name="add_new_number">Dodaj novi broj</string>
+    <string name="add">Dodaj</string>
+    <string name="action_settings">Otvori podešavanja</string>
+    <string name="accept">Prihvati</string>
+    <string name="cancel">Zatvori</string>
+    <string name="defaults">Podrazumevano</string>
+    <string name="general_settings">Podešavanja</string>
+    <string name="message_hint">Tekst poruke…</string>
+    <string name="messages_sent">Poslano poruka: %1$d</string>
+    <string name="monthly_limit_of_messages">Mesečni limit poruka:</string>
+    <string name="monthly_limit_reached">Dostignut je mesečni limit</string>
+    <string name="number_hint">Broj telefona…</string>
+    <string name="please_accept_permission">Molimo Vas da date dozvolu aplikaciji da šalje SMS poruke</string>
+    <string name="please_fill_in_all_fields">Molimo Vas popunite sva polja</string>
+    <string name="remove">Obriši</string>
+    <string name="remove_confirm_message">Da li ste sigurni da želite da obrišete ovaj broj?</string>
+    <string name="save">Snimi</string>
+    <string name="share_text">Poslao sam %1$d poruka koristeći %2$s (Link ka PlayStore: https://play.google.com/store/apps/details?id=net.theev.smsdemo&amp;hl=en)!</string>
+    <string name="share_title">Podeli %1$s statistiku...</string>
+    <string name="sms_has_been_sent">SMS je poslat</string>
+    <string name="total_messages_sent">Ukupno poslatih poruka: %1$d</string>
+    <string name="update">Promeni</string>
+    <string name="update_number">Promeni broj</string>
+    <string name="warning">Upozorenje</string>
+    <string name="warning_message">Mobilni provajder će Vam naplatiti slanje poruka.</string>
+</resources>

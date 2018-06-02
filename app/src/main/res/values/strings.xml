@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Be Human</string>
+    <string name="warning">Warning</string>
+    <string name="warning_message">Mobile carrier will charge you for sending SMS.</string>
+    <string name="accept">Accept</string>
+    <string name="action_settings">Open settings</string>
+    <string name="add_new_number">Add new number</string>
+    <string name="update_number">Update number</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Remove</string>
+    <string name="message_hint">Message text…</string>
+    <string name="number_hint">Phone number…</string>
+    <string name="please_fill_in_all_fields">Please fill in all fields</string>
+    <string name="general_settings">General Settings</string>
+    <string name="messages_sent">Messages sent: %1$d</string>
+    <string name="total_messages_sent">Total messages sent: %1$d</string>
+    <string name="defaults">Defaults</string>
+    <string name="save">Save</string>
+    <string name="please_accept_permission">Please accept permission in order to send an SMS</string>
+    <string name="sms_has_been_sent">SMS has been sent</string>
+    <string name="monthly_limit_of_messages">Monthly limit of messages: </string>
+    <string name="monthly_limit_reached">Monthly limit reached</string>
+    <string name="share_title">Share %1$s statistics to…</string>
+    <string name="share_text">I\'ve sent total of %1$d messages using %2$s (Link to PlayStore https://play.google.com/store/apps/details?id=net.theev.smsdemo&amp;hl=en)!</string>
+    <string name="remove_confirm_message">Are you sure you want to remove this number?</string>
+</resources>
